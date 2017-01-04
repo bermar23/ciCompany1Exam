@@ -1,0 +1,11 @@
+- Database to set:
+
+
+	$db['default']['hostname'] = 'localhost';
+
+	$db['default']['username'] = 'root';
+//to change
+	$db['default']['password'] = '';//to change
+
+
+- To run "examdb.sql" before testing.
